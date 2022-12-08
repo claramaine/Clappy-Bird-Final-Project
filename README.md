@@ -3,7 +3,7 @@
 Authors: *Manthan Ghadia, Sophie van Liempt, Clara Maine, Arne Wittgen*
 
 Built in Unity game engine for the 2020 Human-Computer Interaction Course at Radboud University.
-The important Unity source files are written in _ and can be looked at [place]
+The important Unity source files are written in C# and can be viewed in Assets/Scripts
 
 To play the game, all you need is the Clappy Bird Windows Build folder. Download the folder, run Clappy Bird.exe file and clap away.
 
