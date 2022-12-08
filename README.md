@@ -1,6 +1,6 @@
 # Clappy Bird Repository
 
-Authors: *Manthan Ghadia, Sophie van Liempt, Clara Maine, Arne Wittgen*
+Authors: *Manthan Gadhia, Sophie van Liempt, Clara Maine, Arne Wittgen*
 
 Built in Unity game engine for the 2020 Human-Computer Interaction Course at Radboud University.
 The important Unity source files are written in C# and can be viewed in Assets/Scripts
