@@ -1,6 +1,6 @@
 # Clappy Bird Repository
 
-Authors: *Manthan Gadhia, Sophie van Liempt, Clara Maine, Arne Wittgen*
+![The clappy bird banner. Handdrawn text displays the Clappy Bird logo above a pit of ominous grasping hands.](banner.png)
 
 To play the game, all you need is the Clappy Bird Windows Build folder. Download the folder, run Clappy Bird.exe file and clap away.
 
@@ -27,5 +27,6 @@ experience, using a table can greatly increase the endurance of your hands.
 3. Try to keep the loudness of the claps as even as possible – if a clap is too loud, the bird might 
 overreact and jump twice
 
-> Built in Unity game engine for the 2020 Human-Computer Interaction Course at Radboud University.
+Authors: *Manthan Gadhia, Sophie van Liempt, Clara Maine, Arne Wittgen*
+Built in Unity game engine for the 2020 Human-Computer Interaction Course at Radboud University.
 The important Unity source files are written in C# and can be viewed in Assets/Scripts
